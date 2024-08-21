@@ -1,0 +1,38 @@
+var,units
+SO2,mol km^-2 hr^-1
+CO,mol km^-2 hr^-1
+NH3,mol km^-2 hr^-1
+NO2,mol km^-2 hr^-1
+NO,mol km^-2 hr^-1
+ISO,mol km^-2 hr^-1
+ETH,mol km^-2 hr^-1
+HC3,mol km^-2 hr^-1
+HC5,mol km^-2 hr^-1
+HC8,mol km^-2 hr^-1
+XYL,mol km^-2 hr^-1
+OL2,mol km^-2 hr^-1
+OLT,mol km^-2 hr^-1
+OLI,mol km^-2 hr^-1
+TOL,mol km^-2 hr^-1
+CSL,mol km^-2 hr^-1
+HCHO,mol km^-2 hr^-1
+ALD,mol km^-2 hr^-1
+KET,mol km^-2 hr^-1
+ORA2,mol km^-2 hr^-1
+CH3OH,mol km^-2 hr^-1
+C2H5OH,mol km^-2 hr^-1
+PM25I,ug/m3 m/s
+PM25J,ug/m3 m/s
+ECI,ug/m3 m/s
+ECJ,ug/m3 m/s
+ORGI,ug/m3 m/s
+ORGJ,ug/m3 m/s
+SO4I,ug/m3 m/s
+SO4J,ug/m3 m/s
+NO3I,ug/m3 m/s
+NO3J,ug/m3 m/s
+SO4C,ug/m3 m/s
+NO3C,ug/m3 m/s
+ORGC,ug/m3 m/s
+ECC,ug/m3 m/s
+PM_10,ug/m3 m/s

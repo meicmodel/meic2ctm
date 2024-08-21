@@ -1,0 +1,7 @@
+netCDF4~=1.6.5
+numpy~=1.26.4
+pandas~=2.2.1
+pyproj~=3.6.1
+geopandas~=1.0.0
+shapely~=2.0.4
+xarray~=2024.2.0

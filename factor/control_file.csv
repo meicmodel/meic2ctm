@@ -1,0 +1,11 @@
+﻿sector,adcode,year,month,species,factor
+power,11,2020,7,SO2,0.5
+power,12,2020,7,SO2,0.5
+power,13,2020,7,SO2,0.5
+power,11,2020,7,PM25,0.6
+power,12,2020,7,PM25,0.6
+power,13,2020,7,PM25,0.6
+residential,11,2020,7,NOx,0.2
+residential,12,2020,7,NOx,0.3
+residential,13,2020,7,NOx,0.3
+industry,11,2020,7,VOC,0.8
