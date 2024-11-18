@@ -90,7 +90,7 @@ def load_meic_dat_by_spec(year, month, spec):
             # 对MIX数据进行投影转换
             area_array = calc_area(latitudes, mix_ver)
             df_mix /= np.expand_dims(area_array, 1)
-            projected_data = projection(df_mix)
+            projected_data = projection(df_mix, mix_ver)
 
             df_meic = load_asc(year, month, sector, meic_spec_name)
             # 叠加MIX和MEIC排放
